@@ -1,4 +1,4 @@
-The directory named 'wt-assign2' contains a 8-10 basic html css design of a software development company's website.
+The directory named 'figma' contains a 8-10 basic html css design of a software development company's website.
 
 Made by: Mohit H. Trivedi (From Ahmedabad, Gujarat, India)
 
