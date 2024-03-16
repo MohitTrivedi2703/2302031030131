@@ -1,0 +1,6 @@
+The directory named 'wt-assign2' contains a 8-10 basic html css design of a software development company's website.
+
+Made by: Mohit H. Trivedi (From Ahmedabad, Gujarat, India)
+
+Class: IT4 Batch2 (only for college faculty)
+Enroll: 2302031030131 (only for college faculty)
